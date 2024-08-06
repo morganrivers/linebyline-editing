@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+
+# Ignore all .txt files
+*.txt
+
+# Except for requirements.txt
+!requirements.txt
